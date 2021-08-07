@@ -25,5 +25,5 @@ B. 权重文件已添加到项目数据集里。
 -xxx.ipynb
 ```
 ## 使用方式
-A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)
+A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/2210815)
 B：此处由项目作者进行撰写使用方式。
